@@ -12,4 +12,4 @@ while(low<=upp):
     elif(data>num):
         upp=upp-1
     else:
-        low=low-1
+        low=low+1
