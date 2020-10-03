@@ -1,0 +1,13 @@
+#top{
+border-style:solid;
+border-color:red;
+margin-left:35%;
+padding-left:15%;
+}
+#bottom{
+border-style:solid;
+border-color:green;
+margin-left:35%;
+margin-top:40%;
+padding-left:15%;
+}

@@ -1,0 +1,14 @@
+div{
+background-color:green;
+}
+#lone{
+background-color:blue;
+border-style:solid;
+border-color:brown;
+border-width:12px;
+}
+.pthree{
+background-color:pink;
+border-color:violet;
+border-style:dotted;
+}

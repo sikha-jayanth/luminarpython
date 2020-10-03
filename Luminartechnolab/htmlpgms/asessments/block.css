@@ -1,0 +1,42 @@
+
+h1{
+margin-left:10%;
+margin-top:15%;
+}
+
+.rectangles{
+width:15%;
+height:500px;
+}
+#box{
+margin-top:5%;
+margin-left:10%
+}
+#rect1{
+
+background-color:rgb(25, 109, 153);
+}
+#rect2{
+background-color:rgb(93, 158, 154);
+margin-left:17%;
+margin-top:-500px;
+
+}
+#rect3{
+background-color:rgb(172, 210, 189);
+margin-left:34%;
+margin-top:-500px;
+
+}
+#rect4{
+background-color:rgb(211, 220, 165);
+margin-left:51%;
+margin-top:-500px;
+
+}
+#rect5{
+background-color:rgb(234, 39, 69);
+margin-left:68%;
+margin-top:-500px;
+
+}
